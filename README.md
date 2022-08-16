@@ -2,6 +2,8 @@
 
 ---
 
+## Encryption Techniques
+
 ### Install
 
 ```
